@@ -258,5 +258,4 @@ Ship it! :rocket: :tada:
 
 ---
 
-# Wichtig
-Lege diese Inhalte bei Bedarf als `cheatsheet.md` in deinem Repo ab und erweitere sie im Semester.
+
