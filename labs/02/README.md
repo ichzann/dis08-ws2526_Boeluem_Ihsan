@@ -3,7 +3,7 @@
 # Open Data
 
 <details>
-<summary>Meine Daten</summary>
+<summary>Daten Quellen</summary>
 <!--All you need is a blank line-->
 
     + markdown list 1
