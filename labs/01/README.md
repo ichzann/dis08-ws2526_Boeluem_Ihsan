@@ -85,7 +85,7 @@ Mit Leerzeichen einrücken (meist 2–4), um zu verschachteln.
 # Inline links:
 `[Text](URL "optional title")`  
 **Bspl:**  
-Siehe den [Markdown-Tutorial](https://www.markdowntutorial.com/ "Great intro")
+
 
 ---
 
@@ -94,21 +94,21 @@ Linkziele separat definieren, besser lesbar.
 **Bspl:**  
 Lies die [Hilfe][help]. Nochmals [help].
 
-[help]: https://commonmark.org/help/ "CommonMark Help"
+
 
 ---
 
 # Images:
 `![Alt-Text](URL "optional title")` — Alt-Text hilft bei Accessibility.  
 **Bspl:**  
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png "GitHub Octocat")
+
 
 ---
 
 # Image + link combination:
 Bild in einen Link einbetten.  
 **Bspl:**  
-[![Go to GitHub](https://github.githubassets.com/images/icons/emoji/octocat.png)](https://github.com/)
+
 
 ---
 
