@@ -11,6 +11,7 @@
 </details>
 <details>
 <summary>Description of the data sets</summary>
+
     - [deaths-suicide-months](https://www.destatis.de/EN/Themes/Society-Environment/Health/Causes-Death/Tables/deaths-suicide-months.html)
     - [monatswerte_RR_00046_20060101_20241231](https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/monthly/more_precip/historical/monatswerte_RR_00046_20060101_20241231_hist.zip)
     - monatswerte_RR_00046_20060101_20241231 -> CSV (17x397) & deaths-suicide-months -> HTML Table (13x12)
