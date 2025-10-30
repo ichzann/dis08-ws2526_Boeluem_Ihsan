@@ -49,5 +49,26 @@
         BESONDERHEIT: "Requires separate permission if not DWD-owned"
         LIZENZ: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
+    4. FAIR Princibles
+
+    +--------------+---------------------------------------------------------------+-------------------------------------------------------------+
+    | Principle    | Destatis – Suicide Statistics (2012–2023)                     | DWD – Weather & Climate Data (CC BY 4.0)                    |
+    +--------------+---------------------------------------------------------------+-------------------------------------------------------------+
+    | Findable     |  Yes – Available via GENESIS-Online database with             |   Yes – Listed on DWD Open Data portal and govdata.de,      |
+    |              | searchable metadata (title, time, region, units).             | includes detailed spatial/temporal metadata.                |
+    +--------------+---------------------------------------------------------------+-------------------------------------------------------------+
+    | Accessible   |  Yes – Freely downloadable without login in CSV/XLSX          |   Yes – Open access via HTTPS and APIs, no registration     |
+    |              | formats from official Destatis site.                          | needed; all datasets publicly available.                    |
+    +--------------+---------------------------------------------------------------+-------------------------------------------------------------+
+    | Interoperable|  Partial – Machine-readable (CSV, XLSX, JSON) but metadata    |   Yes – Standard formats (NetCDF, CSV, JSON) and            |
+    |              | not fully compliant with DCAT or ISO 19115 standards.         | INSPIRE/OGC-compliant metadata for geodata.                 |
+    +--------------+---------------------------------------------------------------+-------------------------------------------------------------+
+    | Reusable     |  Yes – Licensed under Data Licence Germany – BY 2.0;          |  Y es – Licensed under Creative Commons Attribution 4.0;    |
+    |              | reuse incl. commercial use allowed with attribution.          | clear reuse rules and citation guidance provided.           |
+    +--------------+---------------------------------------------------------------+-------------------------------------------------------------+
+    | Overall FAIR |  Strong FAIR compliance, only minor metadata limitations.     |  Fu lly FAIR compliant; exemplary open data implementation. |
+    +--------------+---------------------------------------------------------------+-------------------------------------------------------------+
+    
+
 
 </details>
