@@ -1,4 +1,4 @@
-# Commends
+# Quiz Commend
 
 Frage 1 (Die, die du gefunden hast) ->What is the exact output to the display when you type echo Hello World? Please answer in English, paying close attention to capitalization and spacing. 
 
